@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ![Sven](https://github-readme-stats.vercel.app/api?username=1svenhansen&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1svenhansen&layout=compact)](https://github.com/1svenhansen/github-readme-stats)
-
 
 <!--
 **1SvenHansen/1SvenHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
