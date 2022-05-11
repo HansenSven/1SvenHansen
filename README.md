@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-🔭 In my free time I'm currently working on [Onlisted](https://github.com/Onlisted)
+🔭 In my free time I'm currently working on [Onlisted]
 
 🌱 I’m currently learning Python, .Net 6, Angular, React, Microservices and Mobile app development
 
