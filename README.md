@@ -1,12 +1,11 @@
-### Hi there 👋
-
 ## Software Developer and Student 
-
-Here are some ideas to get you started:
 
 🔭 In my free time I'm currently working on [Onlisted]
 
-🌱 I’m currently learning Python, .Net 6, Angular, React, Microservices and Mobile app development
+🌱 I’m currently working with C#, .NET 6, TypeScript/JavaScript, Angular/React and Microservices
+
+🤔 I also have experience with native and hybrid mobile app development
+
 
 ![Sven](https://github-readme-stats.vercel.app/api?username=1svenhansen&show_icons=true&count_private=true)
 
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
