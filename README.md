@@ -1,7 +1,5 @@
 ## Software Developer and Student 
 
-🔭 In my free time I'm currently working on [Onlisted]
-
 🌱 I’m currently working with C#, .NET 6, TypeScript/JavaScript, Angular/React and Microservices
 
 🤔 I also have experience with native and hybrid mobile app development
